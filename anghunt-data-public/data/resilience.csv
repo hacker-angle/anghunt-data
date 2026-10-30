@@ -1,0 +1,7 @@
+failure,observed,property,status
+proxy_removed,connection fails at setup (000),no alternate route,measured
+quota_exhausted,"200, 429, 429 for three consecutive requests",per-host counter stops delivery,measured
+upstream_stopped,request fails; allow + norm_ua still recorded,quota consumed before forwarding,measured
+execution_host_unreachable,task fails; no local fallback,specified,specified
+approval_timeout,treated as refusal,specified,specified
+control_plane_restart,no engagement state on execution host,specified,specified

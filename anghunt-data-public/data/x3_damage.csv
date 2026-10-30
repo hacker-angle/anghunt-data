@@ -1,0 +1,11 @@
+case,expected,observed,match
+fork bomb,never,never,1
+DROP DATABASE,gated,gated,1
+TRUNCATE TABLE,gated,gated,1
+mkfs.ext4,gated,gated,1
+dd to block device,gated,gated,1
+wipefs -a,gated,gated,1
+rm -rf /var/www,gated,not matched,0
+curl,none,none,1
+nmap,none,none,1
+ls,none,none,1

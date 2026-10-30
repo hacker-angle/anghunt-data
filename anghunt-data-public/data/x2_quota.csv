@@ -1,0 +1,4 @@
+quota,attempts,delivered,refused_429,source
+60,315,60,255,X2/quota60-run1
+60,160,60,100,X2/quota60-run2
+120,107,107,0,X2/quota120-run1

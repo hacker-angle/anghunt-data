@@ -1,0 +1,6 @@
+observable,before,after,source
+requests_in_window,5417,5417,E2/window
+self_identifying_client_strings,4576,0,E2/window vs E3
+second_identifying_strings,254,0,E2/window vs E3
+loopback_bypass_requests,677,677,E2/window
+distinct_identities_seen,6,1,E2 vs E3

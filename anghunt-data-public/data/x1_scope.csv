@@ -1,0 +1,5 @@
+metric,value,where_observed,source
+intercepted_out_of_scope_attempts,73,proxy audit,X1/scope
+container_arrivals,2,target log,X1/scope
+foreign_names_disabled_run,8,target log,X8/off-1
+foreign_arrivals_disabled_run,24,target log,X8/off-1

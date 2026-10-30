@@ -1,0 +1,9 @@
+case,claim_supported,verdict,match
+status+size+latency present,1,accepted,1
+claim without response,0,rejected,1
+claim without status,0,rejected,1
+claim with size only,0,rejected,1
+claim with latency only,0,rejected,1
+claim quoting body,1,accepted,1
+claim with status only,0,rejected,1
+claim with status+size,1,accepted,1

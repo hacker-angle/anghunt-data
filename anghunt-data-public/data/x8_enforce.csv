@@ -1,0 +1,6 @@
+condition,run,requests,foreign_names,container_arrivals,refused,source
+on,1,198,0,0,21,X8/enforce-1
+on,2,3609,0,2,77,X8/enforce-2
+on,3,129792,0,2,531,X8/enforce-3
+off,1,1187,24,0,,X8/off-1
+off,2,15336,1,0,,X8/off-2

@@ -1,0 +1,8 @@
+item,value,source
+verdicts_total,1004,X4/online
+human_prompts_during_recon,0,X4/online
+TRUNCATE_TABLE_prompts,1,X4/service
+TRUNCATE_TABLE_outcome,refused,X4/service
+DROP_DATABASE_prompts,1,X4/service
+fork_bomb_prompts,0,X4/service
+fork_bomb_outcome,refused,X4/service
